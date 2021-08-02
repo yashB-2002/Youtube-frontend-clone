@@ -2,6 +2,7 @@
 - It includes concepts like -:
 - React hooks,
 - React router-dom, 
+- Styled Components,
 - CSS-Flexbox, 
 - JSX, 
 - JS Functions, 
