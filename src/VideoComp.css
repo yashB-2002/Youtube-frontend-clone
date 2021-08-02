@@ -1,0 +1,42 @@
+
+.imgg{
+    height: 170px;
+    width: 270px;
+    
+    cursor: pointer;
+}
+h4{
+    font-weight: 200;
+    color: black;
+}
+p{
+    color: gray;
+
+}
+.info_first{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
+.info{
+    margin-left: 80px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.title-video{
+    margin: 6px;
+    font-size: 15px;
+    font-weight: 900;
+}
+.imggg{
+    cursor: pointer;
+    
+    width: 40px;
+    height: 30px;
+}
+.VideoComp{
+    margin-top: 20px;
+}

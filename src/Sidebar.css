@@ -1,0 +1,23 @@
+.sidebar{
+    flex:0.2;
+    background-color: white;
+    overflow-y:scroll ;
+
+}
+.sidebar::-webkit-scrollbar{
+    width: 2px;
+}
+.sidebar::-webkit-scrollbar-track{
+    background: gray;
+}
+
+.H3{
+
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: gray;
+    margin-right: 30px;
+    
+    margin-top: 8px;
+}

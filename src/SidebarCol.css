@@ -1,0 +1,31 @@
+.SidebarCol{
+    display: flex;
+    align-items: center;
+    margin-top:14px ;
+    padding: 8px 7px;
+    
+
+}
+.SidebarCol:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+.icon{
+    color: #606060;
+    margin-left: 11px;
+
+    
+}
+.SidebarCol:hover >.icon{
+    color: red;
+}
+.title{
+    
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    margin-left: 18px;
+}
+.SidebarCol:hover > .title{
+    font-weight: bold;
+}
